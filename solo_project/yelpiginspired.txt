@@ -1,0 +1,13 @@
+I would like to create more of an Instagram + Yelp combination application where a user can log-in and post photos of their favorite food from restaurants all over the area.
+Photos will be categorized by city
+
+Features:
+Login/Registration with Validation
+
+Users will be able to upload (and rate? not sure yet) a photo and like/comment other peoples photos as well, if logged in.
+Users will have to specify what city and name of the restaurant when uploading a photo
+Users will be able to delete posts and edit descriptions.
+(Eventually -- you'll be able to search up a specific restaurant and it should display all the photos users uploaded for that restaurant,
+you'll also be able to search up specific food)
+
+Photos will be displayed in the Homepage (Which photos should be featured here?)

@@ -1,0 +1,13 @@
+I have 2 alaskan malamutes and 1 cat and I personally rawfeed all of 3 of them.
+I have a passion for rawfeeding and I really feel strongly about keeping my animals as healthy as they can be. I've been rawfeeding for almost 5 years now and although it is a bit more pricier than regular store bought kibble, the outcome has been rewarding and hopefully this will extend my animals' life span.
+I've also helped alot of my friends and acquiantances switch their animals to raw.
+
+This process can be overwhelming at first so I would like to create a raw food calculator as a guide for new rawfeeders.
+
+App functionality:
+Users will be required to login/register with validation
+You can add a pet to your profile that will require user to input their pet's information that will redirect them to the calculator page that will also have a weight conversion chart and percentage guideline.
+There will be a profile page for the user that will house a chart with their pet's information that can be updated.
+User can logout
+
+Eventually, I would like to add a "Forum" link where users can posts questions/concerns/or just share their personal journey, as well as comment/like other users posts as well. I would also like to add a "Helpful Links" page that will house a bunch of helpful links to articles and pages regarding rawfeeding.
