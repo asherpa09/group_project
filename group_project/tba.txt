@@ -1,0 +1,5 @@
+Cocktail Recipes???
+A website where users can upload cocktail recipes, access other peoples recipes and save people's recipes
+User will be able to log in and register with validation
+Delete Recipes and Update recipes
+
